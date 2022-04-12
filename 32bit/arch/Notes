@@ -1,0 +1,2 @@
+linux/macros.inc	Compiler directive macros ...  {$I arch/linux/macros.inc} to include in any files that need to 
+			reference macros (sirtwist 10/18/2002}

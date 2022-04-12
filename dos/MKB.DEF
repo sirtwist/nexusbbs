@@ -1,0 +1,12 @@
+{$I-}
+{$V-}
+{$S+}
+{$F+}
+{$R-}
+
+
+{$IFDEF WINDOWS}
+  {$DEFINE BASMINT}         {Use BASM for interrupts under windows}
+{$ENDIF}
+
+{.$DEFINE OPRO}             {Remove dot to use with OPRO}

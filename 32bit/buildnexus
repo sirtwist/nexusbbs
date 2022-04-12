@@ -1,0 +1,3 @@
+fpc -So -gl -vwnhlc build.pas
+./build
+fpc -gl -vwnhlc nexus.pas

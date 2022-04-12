@@ -1,0 +1,28 @@
+{exus nexus nexus nexus nexus nexus nexus nexus nexus nexus nexus nexus nexus}
+{nexus nexus nexus  млмммм   ммммм  лмм ммл млм мм   ммммм   nexus nexus nexu}
+{ nexus nexus nexus Блл Блл Блл  Бл Блл Блл Блл Блл Блл  пл s nexus nexus nex}
+{s nexus nexus nexu Алл Алл АллммАл Алл Алл Алл Алл Алл     us nexus nexus ne}
+{us nexus nexus nex Алл Алл Алл       мпм   Алл Алл пллм    xus nexus nexus n}
+{xus nexus nexus ne Алл Алл Алл     Алл Алл Алл Алл    пллм exus nexus nexus }
+{exus nexus nexus n Алл Алл Алл  м  Алл Алл Алл Алл м   Алл nexus nexus nexus}
+{nexus nexus nexus  Алп Алп  ллллп  Алп Алл АллмАлп плллллп  nexus nexus nexu}
+{ nexus nexus nexus NEXUS   BULLETIN    Алл  BOARD   SYSTEM s nexus nexus nex}
+{s nexus nexus nexus nexus nexus nexus n пп  nexus nexus nexus nexus nexus ne}
+{us nexus nexus nexus nexus nexus nexus nexus nexus nexus nexus nexus nexus n}
+{============================================================================}
+{                                                                            }
+{                      Nexus Bulletin Board System v1.00                     }
+{                                                                            }
+{                                                                            }
+{                             BUILD INCLUDE FILE                             }
+{                                                                            }
+{                                                                            }
+{    (c) Copyright 1996-2000 George A. Roberts IV.  All rights reserved.     }
+{                                                                            }
+{============================================================================}
+
+CONST
+
+Build:String[7]='.41.001';
+CompiledString:String='06/10/2001  23:09:46';
+
